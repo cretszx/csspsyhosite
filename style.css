@@ -1,0 +1,152 @@
+body{
+    background-color: lightgray;
+    margin: 0;
+}
+
+.site{
+    background-color: white;
+    width: 750px;
+    margin: auto;
+}
+
+.header{
+    height: 141px;
+    background-color: #2d7053;
+    padding: 47px 38px;
+}
+
+.circle{
+    width: 141px;  
+    height: 141px;
+    background-color: white;
+    border-radius: 50%;
+    margin-right: 58px;
+}
+
+.header>h1{
+    width: 134px;
+    color: white;
+    margin: 0;
+}
+
+.header>*{
+    float: left;
+}
+
+.menu{
+    width: 84px;
+    float: right;
+    margin-top: 38px;
+}
+
+.menu-stick{
+    height: 12px;
+    background-color: white;
+    margin-bottom: 16px;
+    border-radius: 12px;
+}
+
+.dark-container{
+    height: 99px;
+    width: 100%;
+    background-color: rgb(0,0,0,0.5);
+    float: left;
+    text-align: center;
+    padding: 345px;
+}
+
+.photo-conteiner{
+    width: 642px;
+    height: 438px;
+    background-image: url("https://amf.ua/upload/complect/b/152696937016.jpg");
+    background-size: 100% 100%;
+    margin-top: -84px;
+    padding: 54px;
+}
+
+button{
+    border-color: #cb9223;
+    background-color: #cb9223;
+    color: white;
+    padding: 28px 45px;
+    margin-left: 270px;
+}
+
+.main{
+    width: 214px;
+    height: 214px;
+    background-color: lightslategray;
+    border-radius: 50%;
+    margin-right: 58px;
+    margin-left: 50px;
+    background-image: url("https://media.glamour.com/photos/5695b1ee93ef4b09520e4081/master/w_1600%2Cc_limit/sex-love-life-2013-09-zach-galifinakis-wide-face-main.jpg")
+}
+h1{
+    font-family:monospace;
+    width: 120px;
+    height: 200px;
+    margin: -165px;
+    margin-left: 322px;
+}
+
+h2{
+    font-family: sans-serif;
+    width: 245px;
+    height: 108px;
+    margin-left: 320px;
+    margin-top: 43px;
+}
+
+h4{
+    font-family: monospace;
+    width: 590px;
+    height: 166px;
+    margin-left: 50px;
+}
+
+h3{
+    font-family:sans-serif;
+    height: 63px;
+    margin-left: 135px;
+}
+
+ul{
+    font-family: sans-serif;
+}
+
+button{
+    width: 300px;
+    height: 74px;
+    margin-left: 212px;
+}
+
+.footer{
+    width: 750px;
+    height: 153px;
+    background-color: rgba(136, 136, 136, 1);
+}
+
+.crugf{
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 45px;
+}
+
+.adress{
+    color: white;
+    margin-left: 325px;
+}
+
+.number{
+    color: white;
+    margin-left: 570px;
+    margin-top: -52px;
+}
+
+.mail{
+    color: white;
+    margin-left: 570px;
+    margin-top: 15px;
+}
